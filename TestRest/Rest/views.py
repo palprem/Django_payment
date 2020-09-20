@@ -42,6 +42,6 @@ def manage(request):
                   "tranjection_text": i["tranjection_text"]}),
     return JsonResponse({"status":i})
 
-#
+#git stat
 #
 # # Create your views here.
